@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codesustain/static/css/main.05d3ba5f.css",
+    "main.js": "/codesustain/static/js/main.3634709c.js",
+    "index.html": "/codesustain/index.html",
+    "main.05d3ba5f.css.map": "/codesustain/static/css/main.05d3ba5f.css.map",
+    "main.3634709c.js.map": "/codesustain/static/js/main.3634709c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05d3ba5f.css",
+    "static/js/main.3634709c.js"
+  ]
+}
